@@ -1,3 +1,7 @@
 harnessApiVersion: '1.0'
 type: APPLICATION
+branchName: main
 description: v10
+gitConnector: Git_GitHub_Account_Level_Connector
+isGitSyncEnabled: true
+repoName: freshbooks_account_lvl_lab
